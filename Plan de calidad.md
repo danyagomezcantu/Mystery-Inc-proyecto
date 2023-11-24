@@ -44,16 +44,33 @@ Nuestra aplicación debe cumplir con los siguientes indicadores:
 ### Medidas a tomar 
  
 > Optimizar codigo
-Asegurarnos que no haya cálculos innecesarios y optimizar algoritmos
+* Asegurarnos que no haya cálculos innecesarios y optimizar algoritmos
 
 > Implementar mecanismos de caching
-Para datos frecuentemente accesados para reducir el número de queries a la base de datos y mejorar el tiempo de respuesta
+* Para datos frecuentemente accesados para reducir el número de queries a la base de datos y mejorar el tiempo de respuesta
 
 > Uso de procesamiento asíncrono
-Para que nos permita realizar operaciones múltiples de manera simultánea, de esta manera podemos manejar las notificaciones de la app
+* Para que nos permita realizar operaciones múltiples de manera simultánea, de esta manera podemos manejar las notificaciones de la app
 
 > Usar una infraestructura escalable
-Usar soluciones en la nube con arquitectura de microservicios para tener esta flexibilidad y escalabilidad
+* Usar soluciones en la nube con arquitectura de microservicios para tener esta flexibilidad y escalabilidad
 
+## 3.- SEGURIDAD 
 
+Dado que manejamos pagos e información personal confidencial, la seguridad es clave para no perder la confianza de nuestros usuarios. 
+
+Vulnerabilidades identificadas y como mitigar estos riesgos: 
+
+>uso de correos y celulares de los usuarios
+* Usar protocolos de encripción como HTTPS para asegurar los datos que se transmiten entre la app y los servidores
+* Delegar en terceros la seguridad de las bases de datos con nuestro proveedor cloud
+>uso de datos de tarjetas y métodos de pago, conexión con wallets
+* Correr las pruebas que se piden en Google Pay y Apple Pay e implementar yellow, green y red paths
+* https://developers.google.com/pay/api/android/guides/resources/test-card-suite
+>no hay métodos de autenticación extras al momento de iniciar sesión
+* Podemos establecer autenticación multi-factor para asegurar que sea el usuario
+
+>Medidas adicionales
+* Regularmente actualizar componentes de software y librerias para parchear vulnerabilidades conocidas
+* Tener un plan de mantenimiento de la aplicación durante los periodos de inactividad (de 12 a 5 am)
 
