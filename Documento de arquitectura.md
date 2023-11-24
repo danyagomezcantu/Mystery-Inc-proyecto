@@ -2,7 +2,7 @@ Hola Mundo XD
 
 # Documento de arquitectura
 
-![Documento de Arquitectura](https://github.com/0m4r1nIX2002/Mystery-Inc-proyecto/blob/patch-3/imagenArquitectura.jpg?raw=true)
+![Documento de Arquitectura](https://github.com/0m4r1nIX2002/Mystery-Inc-proyecto/blob/patch-3/arquitectura1.jpg?raw=true)
 
 Decidimos hacer este proyecto con arquitectura de microservicios ya que es la que más se acopla a las necesidades de la aplicación.
 En primer lugar, debido a la flexibilidad que nos da, ya que podemos configurar partes específicas de la aplicación según sea necesario sin necesidad de dejar fuera de línea toda la aplicación. Esto nos ayuda a adaptarnos a las demandas cambiantes de un número constante de usuarios. Esta arquitectura nos facilita la tolerancia a fallos; pues, en caso de uno, no se afectan los demás servicios. Y, según nuestro diseño, existen alternativas entre los microservicios por lo que no significaría una ruptura en la aplicación y mantendría la funcionalidad de la aplicación. Finalmente, el mantenimiento y las actualizaciones se simplificarían.
