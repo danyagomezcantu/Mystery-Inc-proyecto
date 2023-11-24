@@ -11,8 +11,12 @@ Se creará una aplicación disponible para iOS y Android en la cual se pueda ini
 
 ### Iniciar sesión 
 >*Prioridad alta*
-El usuario puede iniciar sesión con su correo del itam y una contraseña.
-Criterios de aceptación: Una página de login en la que se pueda crear cuenta, recuperar contraseña y tener un login alternativo para administradores de la cafeteria. 
+
+Precondiciones: 
+El usuario es parte de la comunidad itam
+
+Postcondiciones:
+*Una página de login en la que se pueda crear cuenta, recuperar contraseña y tener un login alternativo para administradores de la cafeteria. 
 
 ### El personal de la cafeteria quita o añade platillos y modifica la disponibilidad en caso de que se acabe alguno. 
 >*Prioridad alta*
