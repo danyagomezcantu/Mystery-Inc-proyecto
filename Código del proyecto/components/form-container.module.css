@@ -1,0 +1,82 @@
+.groupChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 12.61px;
+  background-color: var(--color-gray-200);
+  width: 185.5px;
+  height: 280.1px;
+}
+.capucchinoVainilla,
+.groupItem {
+  position: absolute;
+  left: 16.5px;
+  width: 152.5px;
+}
+.groupItem {
+  top: 14.6px;
+  border-radius: var(--br-mini);
+  height: 135.2px;
+  object-fit: cover;
+}
+.capucchinoVainilla {
+  top: 159.5px;
+  line-height: 145%;
+  display: inline-block;
+  height: 42.6px;
+}
+.b,
+.groupInner {
+  position: absolute;
+}
+.groupInner {
+  top: 218px;
+  left: 16.5px;
+  border-radius: var(--br-xs);
+  background-color: var(--color-gray-300);
+  width: 152.5px;
+  height: 47.5px;
+}
+.b {
+  top: 231.3px;
+  left: 47.4px;
+  font-size: var(--font-size-base);
+  line-height: 115%;
+  display: inline-block;
+  font-family: var(--font-roboto);
+  color: var(--neutral-300);
+  width: 38.1px;
+  height: 22.5px;
+}
+.rectangleDiv {
+  position: absolute;
+  top: 218px;
+  left: 115.4px;
+  border-radius: var(--br-xs);
+  background-color: var(--color-blanchedalmond);
+  width: 53.6px;
+  height: 47.5px;
+}
+.groupIcon {
+  position: absolute;
+  height: 5.64%;
+  width: 9.65%;
+  top: 83.47%;
+  right: 18.49%;
+  bottom: 10.89%;
+  left: 71.86%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.rectangleParent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 185.5px;
+  height: 280.1px;
+  text-align: left;
+  font-size: var(--ibm-plex-sans-body-2-regular-14-size);
+  color: var(--color-black);
+  font-family: var(--font-rosarivo);
+}

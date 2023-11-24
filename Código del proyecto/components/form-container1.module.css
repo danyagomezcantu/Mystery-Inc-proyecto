@@ -1,0 +1,81 @@
+.groupChild {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 12.61px;
+  background-color: var(--color-gray-200);
+  width: 185.5px;
+  height: 279.8px;
+}
+.groupItem {
+  position: absolute;
+  top: 14.6px;
+  left: 16.5px;
+  border-radius: 14.99px;
+  width: 152.5px;
+  height: 135.2px;
+  object-fit: cover;
+}
+.capuchinoMoka {
+  top: 159.5px;
+  left: 16.5px;
+  line-height: 145%;
+  display: inline-block;
+  width: 152.5px;
+  height: 42.6px;
+}
+.b,
+.capuchinoMoka,
+.groupInner {
+  position: absolute;
+}
+.groupInner {
+  top: 218px;
+  left: 16.5px;
+  border-radius: var(--br-xs);
+  background-color: var(--color-gray-300);
+  width: 152.5px;
+  height: 47.5px;
+}
+.b {
+  top: 231.1px;
+  left: 41.2px;
+  font-size: 15.98px;
+  line-height: 115%;
+  display: inline-block;
+  font-family: var(--font-roboto);
+  color: var(--neutral-300);
+  width: 50.8px;
+  height: 21.9px;
+}
+.groupIcon {
+  position: relative;
+  width: 13px;
+  height: 13px;
+}
+.groupWrapper {
+  position: absolute;
+  top: 217.7px;
+  left: 115.4px;
+  border-radius: var(--br-xs);
+  background-color: var(--color-blanchedalmond);
+  width: 53.6px;
+  height: 47.4px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 12.98744010925293px;
+  box-sizing: border-box;
+}
+.rectangleParent {
+  position: absolute;
+  top: 0;
+  left: 207.5px;
+  width: 185.5px;
+  height: 279.8px;
+  text-align: left;
+  font-size: 13.99px;
+  color: var(--color-black);
+  font-family: var(--font-rosarivo);
+}
