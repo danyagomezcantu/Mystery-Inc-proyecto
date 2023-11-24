@@ -1,0 +1,46 @@
+.persona1Icon {
+  left: 327px;
+  opacity: 0.5;
+  cursor: pointer;
+}
+.mugHotAlt1Icon,
+.persona1Icon,
+.roomService1Icon,
+.sandwich1Icon {
+  position: absolute;
+  top: 0;
+  width: 65px;
+  height: 76px;
+  object-fit: cover;
+}
+.roomService1Icon {
+  left: 218px;
+  opacity: 0.5;
+  cursor: pointer;
+}
+.mugHotAlt1Icon,
+.sandwich1Icon {
+  left: 109px;
+}
+.sandwich1Icon {
+  top: 3px;
+  left: 0;
+  height: 70px;
+  opacity: 0.5;
+  cursor: pointer;
+}
+.footer,
+.iconosInternalFrame {
+  position: absolute;
+  top: 7px;
+  left: 18px;
+  width: 393px;
+  height: 76px;
+}
+.footer {
+  top: 843px;
+  left: 0;
+  background: linear-gradient(180deg, #fff, #b4c8d0);
+  width: 430px;
+  height: 89px;
+}

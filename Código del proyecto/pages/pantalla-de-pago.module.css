@@ -1,0 +1,347 @@
+.persona1Icon,
+.roomService1Icon {
+  position: absolute;
+  top: 0;
+  width: 65px;
+  height: 76px;
+  object-fit: cover;
+}
+.persona1Icon {
+  left: 327px;
+  opacity: 0.5;
+  cursor: pointer;
+}
+.roomService1Icon {
+  left: 218px;
+}
+.mugHotAlt1Icon,
+.sandwich1Icon {
+  position: absolute;
+  width: 65px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.mugHotAlt1Icon {
+  top: 0;
+  left: 109px;
+  height: 76px;
+  opacity: 0.5;
+}
+.sandwich1Icon {
+  top: 3px;
+  left: 0;
+  height: 70px;
+}
+.footer,
+.iconosInternalFrame {
+  position: absolute;
+  top: 7px;
+  left: 18px;
+  width: 393px;
+  height: 76px;
+}
+.footer {
+  top: 843px;
+  left: 0;
+  background: linear-gradient(180deg, #fff, #b4c8d0);
+  width: 430px;
+  height: 89px;
+}
+.tarjetasGuardadas {
+  position: relative;
+}
+.logosmastercardIcon {
+  position: relative;
+  width: 32px;
+  height: 20px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.logosmastercardParent,
+.nuBankParent {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-5xs);
+}
+.logosmastercardParent {
+  align-items: center;
+}
+.carbonradioButtonCheckedIcon {
+  position: relative;
+  width: 20px;
+  height: 20px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.frameContainer {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
+.frameWrapper {
+  border-radius: var(--br-5xs);
+  border: 1px solid var(--neutral-400);
+  box-sizing: border-box;
+  width: 295px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-5xs) var(--padding-base);
+}
+.logosvisaIcon {
+  position: relative;
+  width: 32px;
+  height: 10.4px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.frameGroup {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-5xs);
+}
+.addIcon {
+  position: relative;
+  width: 18.4px;
+  height: 18.4px;
+}
+.addWrapper {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 6.13px;
+  background-color: #d2eaff;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 3.0625px;
+  box-sizing: border-box;
+}
+.vuesaxlinearadd {
+  position: relative;
+  width: 24px;
+  height: 24px;
+}
+.vuesaxlinearaddParent {
+  width: 165px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-xs);
+}
+.frameWrapper1 {
+  padding: 0 var(--padding-5xs);
+  cursor: pointer;
+  font-size: var(--ibm-plex-sans-body-2-regular-14-size);
+}
+.frameParent,
+.frameWrapper1,
+.tarjetasGuardadasParent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frameParent {
+  border-radius: var(--br-base);
+  background-color: var(--neutral-300);
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.08);
+  border: 1px solid var(--neutral-400);
+  padding: var(--padding-base);
+  gap: var(--gap-xs);
+  font-size: var(--ibm-plex-sans-caption-regular-12-size);
+  color: var(--neutral-700);
+  font-family: var(--ibm-plex-sans-body-2-regular-14);
+}
+.tarjetasGuardadasParent {
+  position: absolute;
+  top: 316px;
+  left: 47px;
+  gap: 16px;
+}
+.otrasFormasDe {
+  position: absolute;
+  top: 548px;
+  left: 47px;
+}
+.pedidoBarraDe,
+.qty4 {
+  position: relative;
+  display: inline-block;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  height: 18px;
+}
+.pedidoBarraDe {
+  width: 192px;
+  flex-shrink: 0;
+}
+.qty4 {
+  flex: 1;
+}
+.qty4Wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.pedidoBarraDeComidaYBebidParent {
+  text-align: left;
+  font-size: var(--ibm-plex-sans-caption-regular-12-size);
+  color: var(--neutral-700);
+}
+.pedidoBarraDeComidaYBebidParent,
+.resumenDeLaOrdenParent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-9xs);
+}
+.frameWrapper2 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  font-size: var(--ibm-plex-sans-body-2-regular-14-size);
+}
+.cafeteraRoHondo,
+.vuesaxlinearlocationIcon {
+  position: relative;
+  width: 16px;
+  height: 16px;
+}
+.cafeteraRoHondo {
+  display: inline-block;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  width: 271px;
+  height: 18px;
+  flex-shrink: 0;
+}
+.vuesaxlinearlocationParent {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-5xs);
+  text-align: left;
+  color: var(--neutral-700);
+}
+.b {
+  position: relative;
+  font-size: var(--ibm-plex-sans-body-2-regular-14-size);
+}
+.totalAmountParent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+}
+.frameParent2 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-end;
+  gap: 11px;
+}
+.pantallaDePagoInner {
+  position: absolute;
+  top: 131px;
+  left: 51px;
+  border-radius: var(--br-base);
+  background-color: var(--neutral-300);
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.08);
+  border: 1px solid var(--neutral-400);
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-base);
+  font-size: var(--ibm-plex-sans-caption-regular-12-size);
+  font-family: var(--ibm-plex-sans-body-2-regular-14);
+}
+.vuesaxlinearwallet3Icon {
+  position: relative;
+  width: 20px;
+  height: 20px;
+}
+.pantallaDePagoChild,
+.walletWrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.pantallaDePagoChild {
+  position: absolute;
+  top: 585px;
+  left: 47px;
+  border-radius: var(--br-base);
+  background-color: var(--neutral-300);
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.08);
+  border: 1px solid var(--neutral-400);
+  flex-direction: column;
+  padding: var(--padding-base);
+  font-size: var(--ibm-plex-sans-caption-regular-12-size);
+  color: var(--neutral-700);
+  font-family: var(--ibm-plex-sans-body-2-regular-14);
+}
+.pantallaDePagoItem {
+  position: absolute;
+  top: 140px;
+  left: 74px;
+  border-radius: 50%;
+  width: 75px;
+  height: 75px;
+  object-fit: cover;
+}
+.hacerPedido {
+  position: relative;
+  font-weight: 600;
+}
+.payNowCta {
+  position: absolute;
+  top: 761px;
+  left: 43px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-blanchedalmond);
+  box-shadow: 2px 2px 15px rgba(0, 0, 0, 0.15);
+  width: 343px;
+  height: 45px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-mini) var(--padding-31xl);
+  box-sizing: border-box;
+  cursor: pointer;
+  color: var(--color-gray-500);
+  font-family: var(--font-open-sans);
+}
+.pantallaDePago {
+  position: relative;
+  background-color: var(--color-silver);
+  width: 100%;
+  height: 932px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+  font-family: var(--font-averia-sans-libre);
+}

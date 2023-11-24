@@ -1,0 +1,370 @@
+.menBebidaAdminChild {
+  position: absolute;
+  top: 316px;
+  left: 215px;
+  border-radius: var(--br-6xl);
+  background-color: var(--color-darkgray-200);
+  width: 129px;
+  height: 115px;
+}
+.persona1Icon {
+  left: 309px;
+  opacity: 0.5;
+  cursor: pointer;
+}
+.mugHotAlt1Icon,
+.persona1Icon,
+.persona2Icon,
+.sandwich1Icon {
+  position: absolute;
+  top: 0;
+  width: 65px;
+  height: 76px;
+  object-fit: cover;
+}
+.persona2Icon {
+  left: 209px;
+  opacity: 0.5;
+  cursor: pointer;
+}
+.mugHotAlt1Icon,
+.sandwich1Icon {
+  left: 97px;
+}
+.sandwich1Icon {
+  top: 3px;
+  left: -15px;
+  height: 70px;
+  opacity: 0.5;
+  cursor: pointer;
+}
+.iconosInternalFrame {
+  position: absolute;
+  top: calc(50% - 37.5px);
+  left: calc(50% - 177px);
+  width: 353px;
+  height: 76px;
+}
+.footer {
+  position: absolute;
+  top: 843px;
+  left: 0;
+  background: linear-gradient(180deg, #fff, #b4c8d0);
+  width: 430px;
+  height: 89px;
+}
+.menBebidaAdminItem {
+  position: absolute;
+  top: 123px;
+  left: 210px;
+  border-radius: var(--br-6xl);
+  background-color: var(--color-darkgray-200);
+  width: 129px;
+  height: 115px;
+}
+.menBebidaAdminChild1,
+.menBebidaAdminInner,
+.rectangleDiv {
+  position: absolute;
+  top: 90px;
+  left: 18px;
+  border-radius: var(--br-6xl);
+  background-color: var(--color-gainsboro-200);
+  width: 394px;
+  height: 158px;
+}
+.menBebidaAdminChild1,
+.rectangleDiv {
+  top: 280px;
+}
+.menBebidaAdminChild1 {
+  top: 468px;
+  left: 13px;
+}
+.rectangleIcon {
+  position: absolute;
+  top: 129px;
+  left: 72px;
+  border-radius: 14.99px;
+  width: 123px;
+  height: 107px;
+  object-fit: cover;
+}
+.cafAmericano {
+  position: absolute;
+  top: 102px;
+  left: 26px;
+  font-size: var(--ibm-plex-sans-body-2-regular-14-size);
+  font-weight: 500;
+  display: inline-block;
+  width: 159px;
+  height: 21px;
+}
+.ingredientesCafKj {
+  margin: 0;
+}
+.editar,
+.ingredientesCafKjContainer {
+  position: absolute;
+  top: 131px;
+  left: 224px;
+  font-weight: 500;
+  display: inline-block;
+  width: 123px;
+  height: 107px;
+}
+.editar {
+  top: 219px;
+  left: 274px;
+  text-decoration: underline;
+  color: var(--color-blueviolet);
+  overflow: hidden;
+  text-overflow: ellipsis;
+  width: 49px;
+  height: 12px;
+}
+.image3Icon {
+  position: absolute;
+  top: 111px;
+  left: 354px;
+  width: 42px;
+  height: 22px;
+  object-fit: cover;
+}
+.menBebidaAdminChild2 {
+  position: absolute;
+  top: 505px;
+  left: 210px;
+  border-radius: var(--br-6xl);
+  background-color: var(--color-darkgray-200);
+  width: 129px;
+  height: 115px;
+}
+.frapucchino {
+  position: absolute;
+  top: 480px;
+  left: 26px;
+  font-size: var(--ibm-plex-sans-body-2-regular-14-size);
+  font-weight: 500;
+  display: inline-block;
+  width: 159px;
+  height: 21px;
+}
+.menBebidaAdminChild3 {
+  position: absolute;
+  top: 534px;
+  left: 195px;
+  width: 100px;
+  height: 100px;
+}
+.ingredientesCafJarabeContainer,
+.ingredientesCalabazaLecheContainer {
+  position: absolute;
+  top: 509px;
+  left: 224px;
+  font-weight: 500;
+  display: inline-block;
+  width: 123px;
+  height: 107px;
+}
+.ingredientesCalabazaLecheContainer {
+  top: 332px;
+}
+.editar1 {
+  top: 597px;
+  left: 274px;
+  text-decoration: underline;
+  color: var(--color-blueviolet);
+  overflow: hidden;
+  text-overflow: ellipsis;
+  width: 49px;
+  height: 12px;
+}
+.agregarBebida,
+.bebidas,
+.div,
+.div1,
+.editar1,
+.eliminarBebida {
+  position: absolute;
+  font-weight: 500;
+  display: inline-block;
+}
+.bebidas {
+  top: 35px;
+  left: 18px;
+  font-size: var(--font-size-5xl);
+  background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
+    linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), #000;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  width: 123px;
+  height: 32px;
+}
+.agregarBebida,
+.div,
+.div1,
+.eliminarBebida {
+  top: 6px;
+  left: 296px;
+  font-size: var(--font-size-21xl);
+  text-align: center;
+  width: 43px;
+  height: 52px;
+}
+.agregarBebida,
+.div1,
+.eliminarBebida {
+  top: 9px;
+  left: 350px;
+  font-size: var(--font-size-16xl);
+}
+.agregarBebida,
+.eliminarBebida {
+  top: 49px;
+  left: 294px;
+  font-size: var(--font-size-5xs);
+  width: 51px;
+  height: 23px;
+}
+.eliminarBebida {
+  left: 346px;
+}
+.menBebidaAdminChild4 {
+  position: absolute;
+  top: 501px;
+  left: 87px;
+  border-radius: var(--br-mini);
+  width: 98px;
+  height: 115px;
+  object-fit: cover;
+}
+.menBebidaAdminChild5 {
+  position: absolute;
+  top: 468px;
+  left: 18px;
+  border-radius: var(--br-6xl);
+  width: 394px;
+  height: 158px;
+}
+.editar2,
+.latteDeCalabaza {
+  position: absolute;
+  font-weight: 500;
+  display: inline-block;
+}
+.latteDeCalabaza {
+  top: 291px;
+  left: 31px;
+  font-size: var(--ibm-plex-sans-body-2-regular-14-size);
+  width: 159px;
+  height: 21px;
+}
+.editar2 {
+  top: 408px;
+  left: 279px;
+  text-decoration: underline;
+  color: var(--color-blueviolet);
+  overflow: hidden;
+  text-overflow: ellipsis;
+  width: 49px;
+  height: 12px;
+}
+.image7Icon,
+.menBebidaAdminChild6 {
+  position: absolute;
+  top: 298px;
+  left: 355px;
+  width: 43px;
+  height: 22px;
+  object-fit: cover;
+}
+.menBebidaAdminChild6 {
+  top: 316px;
+  left: 77px;
+  border-radius: 14.99px;
+  width: 123px;
+  height: 107px;
+}
+.menBebidaAdminChild7,
+.menBebidaAdminChild8 {
+  position: absolute;
+  top: 689px;
+  left: 205px;
+  border-radius: var(--br-6xl);
+  background-color: var(--color-darkgray-200);
+  width: 129px;
+  height: 115px;
+}
+.menBebidaAdminChild8 {
+  top: 656px;
+  left: 13px;
+  background-color: var(--color-gainsboro-200);
+  width: 394px;
+  height: 158px;
+}
+.menBebidaAdminChild9 {
+  position: absolute;
+  top: 695px;
+  left: 67px;
+  border-radius: 14.99px;
+  width: 123px;
+  height: 107px;
+  object-fit: cover;
+}
+.editar3,
+.ingredientesAguaAzucarContainer,
+.ponche {
+  position: absolute;
+  font-weight: 500;
+  display: inline-block;
+}
+.ponche {
+  top: 668px;
+  left: 21px;
+  font-size: var(--ibm-plex-sans-body-2-regular-14-size);
+  width: 159px;
+  height: 21px;
+}
+.editar3,
+.ingredientesAguaAzucarContainer {
+  top: 697px;
+  left: 219px;
+  width: 123px;
+  height: 107px;
+}
+.editar3 {
+  top: 785px;
+  left: 269px;
+  text-decoration: underline;
+  color: var(--color-blueviolet);
+  overflow: hidden;
+  text-overflow: ellipsis;
+  width: 49px;
+  height: 12px;
+}
+.image14Icon,
+.image8Icon {
+  position: absolute;
+  top: 484px;
+  left: 352px;
+  width: 42px;
+  height: 22px;
+  object-fit: cover;
+}
+.image14Icon {
+  top: 670px;
+  left: 349px;
+  width: 43px;
+}
+.menBebidaAdmin {
+  position: relative;
+  background-color: var(--color-silver);
+  width: 100%;
+  height: 932px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-3xs);
+  color: var(--color-black);
+  font-family: var(--font-roboto);
+}

@@ -1,0 +1,44 @@
+.comenzar {
+  position: absolute;
+  top: 0;
+  left: 0;
+  letter-spacing: -0.25px;
+  line-height: 28px;
+}
+.comenzarWrapper {
+  position: absolute;
+  top: 12px;
+  left: 53px;
+  width: 109px;
+  height: 28px;
+}
+.button {
+  position: absolute;
+  top: calc(50% + 219px);
+  left: calc(50% - 107px);
+  border-radius: var(--br-31xl);
+  background: linear-gradient(
+    -87.59deg,
+    #432b23,
+    #261a1c 0.01%,
+    #906a55 48.44%,
+    #412922
+  );
+  width: 215px;
+  height: 51px;
+  cursor: pointer;
+}
+.pantallaDeBienvenida {
+  position: relative;
+  width: 100%;
+  height: 932px;
+  overflow: hidden;
+  background-image: url(/1--pantalla-de-bienvenida@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  text-align: center;
+  font-size: var(--font-size-5xl);
+  color: var(--color-gray-400);
+  font-family: var(--font-roboto);
+}

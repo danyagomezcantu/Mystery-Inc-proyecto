@@ -1,0 +1,55 @@
+.coffeeCards {
+  position: absolute;
+  top: 148px;
+  left: 18px;
+  width: 393px;
+  height: 580px;
+  overflow-y: auto;
+}
+.buscaTuBebida,
+.searchBarChild {
+  position: relative;
+  width: 20px;
+  height: 20px;
+}
+.buscaTuBebida {
+  display: inline-block;
+  width: 198px;
+  flex-shrink: 0;
+}
+.searchBar {
+  position: absolute;
+  top: 49px;
+  left: 18px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-darkgray-100);
+  width: 343px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-3xs) var(--padding-lgi) var(--padding-3xs)
+    var(--padding-xl);
+  box-sizing: border-box;
+  gap: var(--gap-xl);
+}
+.persona3Icon {
+  position: absolute;
+  top: 39px;
+  left: 370px;
+  width: 50px;
+  height: 61px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.menBebidaAlumnx {
+  position: relative;
+  background-color: var(--color-silver);
+  width: 100%;
+  height: 932px;
+  overflow-y: auto;
+  text-align: left;
+  font-size: var(--ibm-plex-sans-body-2-regular-14-size);
+  color: var(--color-black);
+  font-family: var(--font-rosarivo);
+}

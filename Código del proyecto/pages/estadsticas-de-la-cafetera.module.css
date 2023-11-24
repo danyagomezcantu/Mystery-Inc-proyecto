@@ -1,0 +1,101 @@
+.mugHotAlt1Icon,
+.persona1Icon,
+.persona2Icon,
+.sandwich1Icon {
+  position: absolute;
+  top: 0;
+  left: 309px;
+  width: 65px;
+  height: 76px;
+  object-fit: cover;
+}
+.mugHotAlt1Icon,
+.persona2Icon,
+.sandwich1Icon {
+  left: 209px;
+  opacity: 0.5;
+  cursor: pointer;
+}
+.mugHotAlt1Icon,
+.sandwich1Icon {
+  left: 97px;
+}
+.sandwich1Icon {
+  top: 3px;
+  left: -15px;
+  height: 70px;
+}
+.iconosInternalFrame {
+  position: absolute;
+  top: calc(50% - 37.5px);
+  left: calc(50% - 177px);
+  width: 353px;
+  height: 76px;
+}
+.footer {
+  position: absolute;
+  top: 843px;
+  left: 0;
+  background: linear-gradient(180deg, #fff, #b4c8d0);
+  width: 430px;
+  height: 89px;
+}
+.nombreDeUsuario {
+  position: absolute;
+  top: 410px;
+  left: 122px;
+  font-size: var(--font-size-6xl);
+  color: var(--color-gray-700);
+}
+.div,
+.nmeroDeTelfono {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.div {
+  top: 18px;
+  font-size: var(--ibm-plex-sans-caption-regular-12-size);
+  font-weight: 500;
+  color: var(--color-dimgray);
+}
+.nmeroDeTelfonoParent {
+  position: absolute;
+  top: 14px;
+  left: 25px;
+  width: 60px;
+  height: 34px;
+}
+.tarjetas,
+.tarjetas1 {
+  position: absolute;
+  top: 557px;
+  left: 42px;
+  border-radius: var(--br-31xl);
+  background-color: var(--neutral-300);
+  border: 2px solid var(--color-black);
+  box-sizing: border-box;
+  width: 348px;
+  height: 61px;
+}
+.tarjetas1 {
+  top: 476px;
+}
+.estadsticasDeLaCafeteraChild {
+  position: absolute;
+  top: 103px;
+  left: 73px;
+  width: 283px;
+  height: 278px;
+}
+.estadsticasDeLaCafetera {
+  position: relative;
+  background-color: var(--color-silver);
+  width: 100%;
+  height: 932px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--ibm-plex-sans-body-2-regular-14-size);
+  color: var(--color-black);
+  font-family: var(--font-roboto);
+}

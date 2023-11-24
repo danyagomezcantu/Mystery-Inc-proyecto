@@ -1,0 +1,378 @@
+.persona1Icon {
+  position: absolute;
+  top: 0;
+  left: 327px;
+  width: 65px;
+  height: 76px;
+  object-fit: cover;
+  opacity: 0.5;
+  cursor: pointer;
+}
+.roomService1Icon {
+  top: 0;
+  left: 218px;
+  height: 76px;
+}
+.mugHotAlt1Icon,
+.roomService1Icon,
+.sandwich1Icon {
+  position: absolute;
+  width: 65px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.mugHotAlt1Icon {
+  top: 0;
+  left: 109px;
+  height: 76px;
+  opacity: 0.5;
+}
+.sandwich1Icon {
+  top: 3px;
+  left: 0;
+  height: 70px;
+}
+.footer,
+.iconosInternalFrame {
+  position: absolute;
+  top: 7px;
+  left: 18px;
+  width: 393px;
+  height: 76px;
+}
+.footer {
+  top: 843px;
+  left: 0;
+  background: linear-gradient(180deg, #fff, #b4c8d0);
+  width: 430px;
+  height: 89px;
+}
+.frameChild {
+  position: absolute;
+  top: 12px;
+  left: 12px;
+  border-radius: var(--br-mini);
+  width: 72px;
+  height: 72px;
+  object-fit: cover;
+}
+.frameItem {
+  position: absolute;
+  top: 33px;
+  left: 244px;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-gray-300);
+  width: 87px;
+  height: 30px;
+}
+.groupIcon {
+  position: relative;
+  width: 13px;
+  height: 13px;
+}
+.groupWrapper {
+  position: absolute;
+  top: 33px;
+  left: 301px;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-blanchedalmond);
+  width: 30px;
+  height: 30px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-smi);
+  box-sizing: border-box;
+}
+.groupIcon1 {
+  position: relative;
+  width: 13px;
+  height: 2.2px;
+}
+.groupContainer {
+  position: absolute;
+  top: 33px;
+  left: 244px;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-blanchedalmond);
+  width: 30px;
+  height: 30px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-smi);
+  box-sizing: border-box;
+}
+.div {
+  position: absolute;
+  top: 55px;
+  left: 0;
+  line-height: 115%;
+  font-weight: 600;
+  font-family: var(--font-open-sans);
+  display: inline-block;
+  width: 37px;
+  height: 16px;
+}
+.matchaCaliente,
+.sinAzcarDeslactosado {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-size: var(--ibm-plex-sans-body-2-regular-14-size);
+  line-height: 160%;
+}
+.sinAzcarDeslactosado {
+  top: 30px;
+  font-size: var(--ibm-plex-sans-caption-regular-12-size);
+  line-height: 145%;
+}
+.parent,
+.rectangleParent {
+  position: absolute;
+  top: 12px;
+  left: 96px;
+  width: 136px;
+  height: 71px;
+}
+.rectangleParent {
+  top: 0;
+  left: 0;
+  border-radius: var(--br-mini);
+  background-color: var(--color-gray-200);
+  width: 343px;
+  height: 96px;
+}
+.div1 {
+  position: absolute;
+  top: 67px;
+  left: 96px;
+  line-height: 115%;
+  font-weight: 600;
+  font-family: var(--font-open-sans);
+  display: inline-block;
+  width: 37px;
+  height: 16px;
+}
+.chilaquilesVerdes,
+.dosHuevosEstrellados {
+  position: absolute;
+  top: 12px;
+  left: 96px;
+  font-size: var(--ibm-plex-sans-body-2-regular-14-size);
+  line-height: 160%;
+}
+.dosHuevosEstrellados {
+  top: 42px;
+  font-size: var(--ibm-plex-sans-caption-regular-12-size);
+  line-height: 145%;
+}
+.rectangleIcon {
+  position: absolute;
+  top: 12px;
+  left: 14px;
+  border-radius: var(--br-mini);
+  width: 72px;
+  height: 72px;
+  object-fit: cover;
+}
+.cartCards,
+.rectangleGroup {
+  position: absolute;
+  width: 343px;
+}
+.rectangleGroup {
+  top: 224px;
+  left: 0;
+  border-radius: var(--br-mini);
+  background-color: var(--color-gray-200);
+  height: 96px;
+}
+.cartCards {
+  top: 72px;
+  left: 43px;
+  height: 320px;
+}
+.cappuccino,
+.div2 {
+  position: absolute;
+  left: 0;
+}
+.div2 {
+  top: 95px;
+  line-height: 115%;
+  font-weight: 600;
+  font-family: var(--font-open-sans);
+  display: inline-block;
+  width: 37px;
+  height: 16px;
+}
+.cappuccino {
+  top: 40px;
+  font-size: var(--ibm-plex-sans-body-2-regular-14-size);
+  line-height: 160%;
+}
+.groupChild {
+  position: absolute;
+  top: 0;
+  left: 12px;
+  width: 100px;
+  height: 100px;
+  overflow: hidden;
+}
+.dalgonaMacha {
+  position: absolute;
+  top: 70px;
+  left: 0;
+  font-size: var(--ibm-plex-sans-caption-regular-12-size);
+  line-height: 145%;
+}
+.group {
+  position: absolute;
+  top: -28px;
+  left: 96px;
+  width: 112px;
+  height: 111px;
+}
+.rectangleContainer {
+  position: absolute;
+  top: 412px;
+  left: 43px;
+  border-radius: var(--br-mini);
+  background-color: var(--color-gray-200);
+  width: 343px;
+  height: 96px;
+}
+.container,
+.groupDiv {
+  position: absolute;
+  top: -28px;
+  left: 96px;
+  width: 129px;
+  height: 111px;
+}
+.groupDiv {
+  top: 12px;
+  width: 111px;
+  height: 71px;
+}
+.rectangleParent2 {
+  position: absolute;
+  top: 184px;
+  left: 43px;
+  border-radius: var(--br-mini);
+  background-color: var(--color-gray-200);
+  width: 343px;
+  height: 96px;
+}
+.subtractIcon {
+  position: relative;
+  width: 343px;
+  height: 40px;
+}
+.usarPuntosAcumulados {
+  position: absolute;
+  top: 10px;
+  left: 30px;
+}
+.groupInner,
+.subtractParent {
+  position: absolute;
+  top: 10px;
+  left: 293px;
+  width: 20px;
+  height: 20px;
+}
+.subtractParent {
+  top: 542px;
+  left: 45px;
+  width: 343px;
+  height: 40px;
+  font-size: var(--ibm-plex-sans-body-2-regular-14-size);
+  color: var(--color-blanchedalmond);
+}
+.pagar {
+  position: relative;
+  font-weight: 600;
+}
+.payNowCta {
+  position: absolute;
+  top: 763px;
+  left: 43px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-blanchedalmond);
+  box-shadow: 2px 2px 15px rgba(0, 0, 0, 0.15);
+  width: 343px;
+  height: 45px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-mini) var(--padding-31xl);
+  box-sizing: border-box;
+  cursor: pointer;
+  text-align: center;
+  color: var(--color-gray-500);
+  font-family: var(--font-open-sans);
+}
+.grandTotal {
+  position: absolute;
+  top: 85px;
+  left: 0;
+  font-size: var(--ibm-plex-sans-headline-2-medium-20-size);
+  line-height: 125%;
+}
+.pagoTotal,
+.puntosAcumulados {
+  position: absolute;
+  top: 27px;
+  left: 0;
+  line-height: 125%;
+}
+.pagoTotal {
+  top: 1px;
+}
+.div5,
+.div6,
+.div7 {
+  position: absolute;
+  line-height: 115%;
+  font-weight: 600;
+  font-family: var(--font-open-sans);
+}
+.div5 {
+  top: 82px;
+  left: 258px;
+  font-size: var(--ibm-plex-sans-headline-2-medium-20-size);
+}
+.div6,
+.div7 {
+  top: 24px;
+  left: 308px;
+}
+.div7 {
+  top: 0;
+  left: 319px;
+}
+.orderInvoice {
+  position: absolute;
+  top: 612px;
+  left: 51px;
+  width: 352px;
+  height: 110px;
+  font-size: var(--ibm-plex-sans-body-2-regular-14-size);
+  color: var(--neutral-300);
+}
+.carritoDeCompras {
+  position: relative;
+  background-color: var(--color-silver);
+  width: 100%;
+  height: 932px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+  font-family: var(--font-rosarivo);
+}

@@ -1,0 +1,266 @@
+.persona1Icon {
+  position: absolute;
+  top: 0;
+  left: 327px;
+  width: 65px;
+  height: 76px;
+  object-fit: cover;
+  opacity: 0.5;
+  cursor: pointer;
+}
+.mugHotAlt1Icon,
+.roomService1Icon,
+.sandwich1Icon {
+  position: absolute;
+  top: 0;
+  left: 218px;
+  width: 65px;
+  height: 76px;
+  object-fit: cover;
+}
+.mugHotAlt1Icon,
+.sandwich1Icon {
+  left: 109px;
+  opacity: 0.5;
+  cursor: pointer;
+}
+.sandwich1Icon {
+  top: 3px;
+  left: 0;
+  height: 70px;
+}
+.footer,
+.iconosInternalFrame {
+  position: absolute;
+  top: 7px;
+  left: 18px;
+  width: 393px;
+  height: 76px;
+}
+.footer {
+  top: 843px;
+  left: 0;
+  background: linear-gradient(180deg, #fff, #b4c8d0);
+  width: 430px;
+  height: 89px;
+}
+.aadirNuevaTarjeta {
+  position: relative;
+  font-weight: 500;
+}
+.aadirNuevaTarjetaWrapper {
+  position: absolute;
+  top: 92px;
+  left: 48px;
+  width: 332px;
+  height: 27px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  font-size: var(--ibm-plex-sans-headline-2-medium-20-size);
+}
+.enter12Digit,
+.nmeroDeTarjeta {
+  position: relative;
+}
+.enter12Digit {
+  line-height: 20px;
+  font-weight: 500;
+  display: inline-block;
+  width: 246px;
+  flex-shrink: 0;
+}
+.enter12DigitCardNumberWrapper {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.iconsphosphorsecurityquesti {
+  position: relative;
+  width: 16px;
+  height: 16px;
+  display: none;
+}
+.input,
+.nmeroDeTarjetaParent {
+  display: flex;
+  justify-content: flex-start;
+}
+.input {
+  border-radius: var(--br-xs);
+  background-color: var(--neutral-300);
+  border: 1px solid var(--color-gray-800);
+  box-sizing: border-box;
+  width: 327px;
+  flex-direction: row;
+  align-items: center;
+  padding: var(--padding-3xs) var(--padding-base);
+  gap: var(--gap-3xs);
+  text-align: left;
+  color: var(--neutral-600);
+  font-family: var(--font-roboto);
+}
+.nmeroDeTarjetaParent {
+  position: absolute;
+  top: 144px;
+  left: 48px;
+  width: 333px;
+  height: 68px;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: var(--gap-5xs);
+}
+.nombreTarjetahabiente {
+  position: relative;
+  display: flex;
+  align-items: center;
+  width: 187px;
+  height: 26px;
+  flex-shrink: 0;
+}
+.input1,
+.nombreTarjetahabienteParent {
+  display: flex;
+  justify-content: flex-start;
+}
+.input1 {
+  border-radius: var(--br-xs);
+  background-color: var(--neutral-300);
+  border: 1px solid var(--color-gray-800);
+  box-sizing: border-box;
+  width: 327px;
+  flex-direction: row;
+  align-items: center;
+  padding: var(--padding-3xs) var(--padding-base);
+  gap: var(--gap-3xs);
+  color: var(--neutral-600);
+  font-family: var(--font-roboto);
+}
+.nombreTarjetahabienteParent {
+  position: absolute;
+  top: 313px;
+  left: 48px;
+  width: 333px;
+  height: 68px;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: var(--gap-5xs);
+  text-align: left;
+}
+.month {
+  position: relative;
+  line-height: 20px;
+  font-weight: 500;
+}
+.vuesaxlineararrowRightIcon {
+  position: relative;
+  width: 20px;
+  height: 20px;
+}
+.input2,
+.monthParent {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-3xs);
+}
+.input2 {
+  border-radius: var(--br-xs);
+  background-color: var(--neutral-300);
+  border: 1px solid var(--color-gray-800);
+  align-items: center;
+  padding: var(--padding-3xs) var(--padding-base);
+}
+.inputParent {
+  flex-direction: row;
+  gap: var(--gap-5xs);
+  text-align: left;
+  color: var(--neutral-600);
+  font-family: var(--font-roboto);
+}
+.cvvWrapper,
+.fechaDeVencimientoParent,
+.input4,
+.inputParent {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.fechaDeVencimientoParent {
+  position: absolute;
+  top: 228px;
+  left: 48px;
+  width: 205px;
+  height: 68px;
+  flex-direction: column;
+  gap: var(--gap-5xs);
+}
+.cvvWrapper,
+.input4 {
+  flex-direction: row;
+}
+.input4 {
+  flex: 1;
+  border-radius: var(--br-xs);
+  background-color: var(--neutral-300);
+  border: 1px solid var(--color-gray-800);
+  box-sizing: border-box;
+  width: 102px;
+  align-items: center;
+  justify-content: space-between;
+  padding: var(--padding-3xs) var(--padding-base);
+  text-align: left;
+  color: var(--neutral-600);
+  font-family: var(--font-roboto);
+}
+.cvvParent {
+  position: absolute;
+  top: 228px;
+  left: 277px;
+  width: 104px;
+  height: 68px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-5xs);
+}
+.aadirTarjeta {
+  position: relative;
+  font-weight: 600;
+}
+.frame {
+  position: absolute;
+  top: 421px;
+  left: 43px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-blanchedalmond);
+  box-shadow: 2px 2px 15px rgba(0, 0, 0, 0.15);
+  width: 343px;
+  height: 45px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-mini) var(--padding-31xl);
+  box-sizing: border-box;
+  cursor: pointer;
+  font-size: var(--font-size-base);
+  color: var(--color-gray-500);
+  font-family: var(--font-open-sans);
+}
+.pantallaDeTarjetas {
+  position: relative;
+  background-color: var(--color-silver);
+  width: 100%;
+  height: 932px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--ibm-plex-sans-body-2-regular-14-size);
+  color: var(--color-black);
+  font-family: var(--ibm-plex-sans-body-2-regular-14);
+}
