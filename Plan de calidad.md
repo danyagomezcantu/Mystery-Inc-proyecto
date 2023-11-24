@@ -19,6 +19,7 @@ Nuestra aplicación debe cumplir con las siguientes características
 
 > Manejo de carga: 
 * Usar servidores redundantes y técnicas de balanceo de carga para distribuir el tráfico de manera uniforme, asegurando que un punto de falla no arruine el sistema completo
+*Uso de la arquitectura de microservicios para hacerla escalable
 
 > Pruebas: 
 * Conducir pruebas unitarias y pruebas sobre los módulos de autenticación y manejo de órdenes
@@ -26,7 +27,12 @@ Nuestra aplicación debe cumplir con las siguientes características
 * End-to-end tests simulando interaccion de usuarios
 * Probar la aplicación en diferentes dispositivos y sistemas operativos
 * Probar la aplicación en escenarios con poca disponibilidad de internet o conexión intermitente, asegurando que no se pierdan los datos ya ingresando
-  
+
+>Plan de mantenimiento y actualizaciones
+* Realizar actualizaciones regulares a la app, incluyendo nuevos parches de seguridad que se deben incorporar durante la noche o madrugada
+* Implementar una actualización que permita a los usuarios dar feedback de los productos y del funcionamiento de la app
+
+* 
 
 
 
