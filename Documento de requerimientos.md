@@ -65,3 +65,6 @@ Flujo alternativo:
 
 *lo que el estudiante necesita quitar del platillo no se encuentra y para ello se coloca una caja de comentarios para cosas muy específicas
 
+
+
+
