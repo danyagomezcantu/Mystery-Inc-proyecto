@@ -1,0 +1,174 @@
+.persona1Icon,
+.roomService1Icon {
+  position: absolute;
+  top: 0;
+  width: 65px;
+  height: 76px;
+  object-fit: cover;
+}
+.persona1Icon {
+  left: 327px;
+  opacity: 0.5;
+  cursor: pointer;
+}
+.roomService1Icon {
+  left: 218px;
+}
+.mugHotAlt1Icon,
+.sandwich1Icon {
+  position: absolute;
+  width: 65px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.mugHotAlt1Icon {
+  top: 0;
+  left: 109px;
+  height: 76px;
+  opacity: 0.5;
+}
+.sandwich1Icon {
+  top: 3px;
+  left: 0;
+  height: 70px;
+}
+.footer,
+.iconosInternalFrame {
+  position: absolute;
+  top: 7px;
+  left: 18px;
+  width: 393px;
+  height: 76px;
+}
+.footer {
+  top: 843px;
+  left: 0;
+  background: linear-gradient(180deg, #fff, #b4c8d0);
+  width: 430px;
+  height: 89px;
+}
+.seguimientoDePedidoChild,
+.seguimientoDePedidoItem {
+  position: absolute;
+  left: 40px;
+  border-radius: 50%;
+  background-color: var(--color-gray-600);
+  width: 120px;
+  height: 120px;
+}
+.seguimientoDePedidoChild {
+  bottom: 162px;
+  opacity: 0.6;
+}
+.seguimientoDePedidoItem {
+  top: 348px;
+}
+.maceta1Icon {
+  position: absolute;
+  top: 355px;
+  left: 47px;
+  width: 106px;
+  height: 106px;
+  object-fit: cover;
+}
+.seguimientoDePedidoInner {
+  position: absolute;
+  top: 40px;
+  left: 40px;
+  border-radius: 50%;
+  background-color: var(--color-gray-600);
+  width: 120px;
+  height: 120px;
+}
+.pedidoRecibido,
+.tuPedidoSe {
+  position: absolute;
+  top: 56px;
+  left: 179px;
+  display: inline-block;
+  width: 213px;
+  height: 23px;
+}
+.tuPedidoSe {
+  top: 96px;
+  left: 176px;
+  font-size: var(--ibm-plex-sans-headline-2-medium-20-size);
+  height: 62px;
+}
+.preparandoTuComida {
+  margin: 0;
+}
+.preparandoTuComidaContainer,
+.tuPedidoSe1 {
+  position: absolute;
+  top: 354px;
+  left: 154px;
+  display: inline-block;
+  width: 249px;
+  height: 23px;
+}
+.tuPedidoSe1 {
+  top: 394px;
+  left: 161px;
+  font-size: var(--ibm-plex-sans-headline-2-medium-20-size);
+  width: 219px;
+  height: 62px;
+}
+.comidaLista,
+.tuPedidoSe2 {
+  position: absolute;
+  bottom: 252px;
+  left: 160px;
+  display: inline-block;
+  width: 213px;
+  height: 23px;
+  opacity: 0.6;
+}
+.tuPedidoSe2 {
+  bottom: 173px;
+  font-size: var(--ibm-plex-sans-headline-2-medium-20-size);
+  width: 219px;
+  height: 62px;
+}
+.bigBagConAsas1Icon {
+  position: absolute;
+  bottom: 181px;
+  left: 58px;
+  width: 83px;
+  height: 83px;
+  object-fit: cover;
+  opacity: 0.6;
+}
+.lineDiv,
+.seguimientoDePedidoChild1 {
+  position: absolute;
+  top: 170.5px;
+  left: 91.5px;
+  border-right: 7px solid var(--color-gray-600);
+  box-sizing: border-box;
+  width: 7px;
+  height: 167px;
+}
+.seguimientoDePedidoChild1 {
+  top: 475.5px;
+  opacity: 0.6;
+}
+.garrapata31 {
+  position: absolute;
+  top: 55px;
+  left: 55px;
+  width: 90px;
+  height: 90px;
+  object-fit: cover;
+}
+.seguimientoDePedido {
+  position: relative;
+  background-color: var(--color-silver);
+  width: 100%;
+  height: 932px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-6xl);
+  color: var(--color-black);
+  font-family: var(--font-roboto);
+}

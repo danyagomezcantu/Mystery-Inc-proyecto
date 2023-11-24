@@ -1,0 +1,115 @@
+.pantallaDeInicioDeSesinChild {
+  position: absolute;
+  top: 103px;
+  left: 72px;
+  width: 283px;
+  height: 278px;
+}
+.contrasea {
+  position: absolute;
+  top: 0;
+  left: 0;
+  letter-spacing: -0.25px;
+  line-height: 28px;
+  font-weight: 500;
+}
+.contraseaWrapper {
+  position: absolute;
+  top: 12px;
+  left: 99px;
+  width: 80px;
+  height: 28px;
+}
+.button {
+  position: absolute;
+  top: 575px;
+  left: calc(50% - 138px);
+  border-radius: var(--br-31xl);
+  background-color: var(--neutral-300);
+  width: 279px;
+  height: 52px;
+}
+.correoElectrnicoWrapper {
+  position: absolute;
+  top: 12px;
+  left: 78px;
+  width: 128px;
+  height: 28px;
+}
+.button1 {
+  position: absolute;
+  top: calc(50% - 0px);
+  left: calc(50% - 140px);
+  border-radius: var(--br-31xl);
+  background-color: var(--neutral-300);
+  width: 283px;
+  height: 52px;
+}
+.ingresa {
+  position: absolute;
+  top: 0;
+  left: 0;
+  letter-spacing: -0.25px;
+  line-height: 28px;
+}
+.ingresaWrapper {
+  position: absolute;
+  top: 12px;
+  left: 81px;
+  width: 53px;
+  height: 28px;
+}
+.button2 {
+  position: absolute;
+  top: 684px;
+  left: calc(50% - 106px);
+  border-radius: var(--br-31xl);
+  background: linear-gradient(
+    -87.59deg,
+    #432b23,
+    #261a1c 0.01%,
+    #906a55 48.44%,
+    #412922
+  );
+  width: 215px;
+  height: 51px;
+  cursor: pointer;
+  color: var(--color-gray-400);
+}
+.tienesCuentaDe {
+  font-family: var(--font-roboto);
+}
+.tienesCuentaDeAdmin {
+  margin: 0;
+}
+.ingresaAqu1 {
+  text-decoration: underline;
+}
+.tienesCuentaDeContainer1 {
+  line-break: anywhere;
+  width: 100%;
+}
+.tienesCuentaDeContainer {
+  position: absolute;
+  top: 792px;
+  left: 75px;
+  letter-spacing: -0.25px;
+  line-height: 28px;
+  color: var(--color-gray-700);
+  display: flex;
+  align-items: center;
+  width: 283px;
+  height: 56px;
+  cursor: pointer;
+}
+.pantallaDeInicioDeSesin {
+  position: relative;
+  background-color: var(--color-silver);
+  width: 100%;
+  height: 932px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-base);
+  color: var(--color-gray-100);
+  font-family: var(--font-roboto);
+}

@@ -1,0 +1,152 @@
+.mugHotAlt1Icon,
+.persona1Icon,
+.roomService1Icon,
+.sandwich1Icon {
+  position: absolute;
+  top: 0;
+  left: 327px;
+  width: 65px;
+  height: 76px;
+  object-fit: cover;
+}
+.mugHotAlt1Icon,
+.roomService1Icon,
+.sandwich1Icon {
+  left: 218px;
+  opacity: 0.5;
+  cursor: pointer;
+}
+.mugHotAlt1Icon,
+.sandwich1Icon {
+  left: 109px;
+}
+.sandwich1Icon {
+  top: 3px;
+  left: 0;
+  height: 70px;
+}
+.footer,
+.iconosInternalFrame {
+  position: absolute;
+  top: 7px;
+  left: 18px;
+  width: 393px;
+  height: 76px;
+}
+.footer {
+  top: 843px;
+  left: 0;
+  background: linear-gradient(180deg, #fff, #b4c8d0);
+  width: 430px;
+  height: 89px;
+}
+.div,
+.nombreDeUsuario {
+  position: absolute;
+  top: 410px;
+  left: 121px;
+  font-size: var(--font-size-6xl);
+  color: var(--color-gray-700);
+}
+.div {
+  top: 18px;
+  left: 0;
+  font-size: var(--ibm-plex-sans-caption-regular-12-size);
+  font-weight: 500;
+  color: var(--color-dimgray);
+}
+.tarjetasParent {
+  position: absolute;
+  top: 14px;
+  left: 25px;
+  width: 60px;
+  height: 34px;
+}
+.cambiarOAgregar {
+  position: absolute;
+  top: 32px;
+  left: 191px;
+  font-size: var(--ibm-plex-sans-caption-regular-12-size);
+}
+.tarjetas {
+  position: absolute;
+  top: 719px;
+  left: 41px;
+  border-radius: var(--br-31xl);
+  background-color: var(--neutral-300);
+  border: 2px solid var(--color-black);
+  box-sizing: border-box;
+  width: 348px;
+  height: 61px;
+}
+.nmeroDeTelfono,
+.tarjetas2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.tarjetas2 {
+  top: 557px;
+  left: 41px;
+  border-radius: var(--br-31xl);
+  background-color: var(--neutral-300);
+  border: 2px solid var(--color-black);
+  box-sizing: border-box;
+  width: 348px;
+  height: 61px;
+}
+.span {
+  font-weight: 900;
+}
+.puntosConValor {
+  font-weight: 500;
+}
+.puntosConValorContainer {
+  position: absolute;
+  top: 18px;
+  left: 0;
+  font-size: var(--ibm-plex-sans-caption-regular-12-size);
+  color: var(--color-dimgray);
+}
+.tarjetas3,
+.tarjetas4 {
+  position: absolute;
+  top: 638px;
+  left: 41px;
+  border-radius: var(--br-31xl);
+  background-color: var(--neutral-300);
+  border: 2px solid var(--color-black);
+  box-sizing: border-box;
+  width: 348px;
+  height: 61px;
+}
+.tarjetas4 {
+  top: 476px;
+}
+.perfilConNombreAlumnxChild {
+  position: absolute;
+  top: 103px;
+  left: 72px;
+  width: 283px;
+  height: 278px;
+}
+.image22Icon {
+  position: absolute;
+  top: 12px;
+  right: 6px;
+  width: 69px;
+  height: 51px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.perfilConNombreAlumnx {
+  position: relative;
+  background-color: var(--color-silver);
+  width: 100%;
+  height: 932px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--ibm-plex-sans-body-2-regular-14-size);
+  color: var(--color-black);
+  font-family: var(--font-roboto);
+}

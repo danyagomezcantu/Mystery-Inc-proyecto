@@ -1,0 +1,210 @@
+.ayudarAlumnoChild,
+.ayudarAlumnoItem {
+  position: absolute;
+  top: 81px;
+  border-radius: 0 var(--br-6xl) 0 0;
+  width: 140px;
+  height: 46px;
+}
+.ayudarAlumnoChild {
+  left: 119px;
+  background-color: var(--color-gainsboro-100);
+}
+.ayudarAlumnoItem {
+  left: 0;
+  background-color: #bcb5b5;
+}
+.persona1Icon {
+  position: absolute;
+  top: 0;
+  left: 327px;
+  width: 65px;
+  height: 76px;
+  object-fit: cover;
+  opacity: 0.5;
+  cursor: pointer;
+}
+.mugHotAlt1Icon,
+.roomService1Icon,
+.sandwich1Icon {
+  position: absolute;
+  top: 0;
+  left: 218px;
+  width: 65px;
+  height: 76px;
+  object-fit: cover;
+}
+.mugHotAlt1Icon,
+.sandwich1Icon {
+  left: 109px;
+  opacity: 0.5;
+  cursor: pointer;
+}
+.sandwich1Icon {
+  top: 3px;
+  left: 0;
+  height: 70px;
+}
+.footer,
+.iconosInternalFrame {
+  position: absolute;
+  top: 7px;
+  left: 18px;
+  width: 393px;
+  height: 76px;
+}
+.footer {
+  top: 843px;
+  left: 0;
+  background: linear-gradient(180deg, #fff, #b4c8d0);
+  width: 430px;
+  height: 89px;
+}
+.image15Icon {
+  position: absolute;
+  top: 0;
+  left: 321px;
+  width: 90px;
+  height: 92px;
+  object-fit: cover;
+}
+.mugHotAlt1Icon1,
+.persona1Icon1,
+.persona2Icon,
+.sandwich1Icon1 {
+  position: absolute;
+  top: 0;
+  left: 309px;
+  width: 65px;
+  height: 76px;
+  object-fit: cover;
+}
+.mugHotAlt1Icon1,
+.persona2Icon,
+.sandwich1Icon1 {
+  left: 209px;
+  opacity: 0.5;
+  cursor: pointer;
+}
+.mugHotAlt1Icon1,
+.sandwich1Icon1 {
+  left: 97px;
+}
+.sandwich1Icon1 {
+  top: 3px;
+  left: -15px;
+  height: 70px;
+}
+.iconosInternalFrame1 {
+  position: absolute;
+  top: calc(50% - 37.5px);
+  left: calc(50% - 177px);
+  width: 353px;
+  height: 76px;
+}
+.footer2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background: linear-gradient(180deg, #fff, #b4c8d0);
+  width: 430px;
+  height: 89px;
+}
+.image19Icon {
+  position: absolute;
+  top: 14px;
+  left: 317px;
+  width: 26px;
+  height: 24px;
+  object-fit: cover;
+}
+.ayudarAlumnoInner {
+  position: absolute;
+  top: 144px;
+  left: 49px;
+  border-radius: 20px;
+  background-color: var(--color-gainsboro-100);
+  width: 329px;
+  height: 80px;
+}
+.image20Icon,
+.image21Icon {
+  position: absolute;
+  top: 160px;
+  left: 61px;
+  width: 58px;
+  height: 57px;
+  object-fit: cover;
+}
+.image21Icon {
+  top: 254px;
+}
+.enviados,
+.recibidos {
+  position: absolute;
+  top: 87px;
+  left: 30px;
+  display: flex;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  width: 110px;
+  height: 33px;
+}
+.enviados {
+  left: 140px;
+}
+.alexanderFloresEsquivel,
+.miguelAngelPerez {
+  position: absolute;
+  top: 161px;
+  left: 132px;
+  font-size: var(--ibm-plex-sans-body-2-regular-14-size);
+  display: flex;
+  align-items: center;
+  width: 189px;
+  height: 25px;
+}
+.miguelAngelPerez {
+  top: 256px;
+}
+.amHoy,
+.amHoy1,
+.buenosDasMe,
+.holaAdmiTengo {
+  position: absolute;
+  top: 186px;
+  left: 132px;
+  font-size: var(--ibm-plex-sans-caption-regular-12-size);
+  display: inline-block;
+  width: 223px;
+  height: 25px;
+}
+.amHoy,
+.amHoy1,
+.buenosDasMe {
+  top: 281px;
+}
+.amHoy,
+.amHoy1 {
+  top: 156px;
+  left: 303px;
+  font-size: var(--font-size-3xs);
+  font-weight: 500;
+  width: 70px;
+  height: 18px;
+}
+.amHoy1 {
+  top: 249px;
+}
+.ayudarAlumno {
+  position: relative;
+  background-color: var(--color-silver);
+  width: 100%;
+  height: 932px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+  font-family: var(--font-roboto);
+}

@@ -1,0 +1,367 @@
+.danielDeLa,
+.detalles {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.detalles {
+  top: 18px;
+  font-size: var(--ibm-plex-sans-caption-regular-12-size);
+  font-weight: 500;
+  color: var(--color-dimgray);
+}
+.danielDeLaCruzParent,
+.image25Icon {
+  position: absolute;
+  top: 14px;
+  left: 28px;
+  width: 60px;
+  height: 34px;
+}
+.image25Icon {
+  top: 11px;
+  left: 273px;
+  width: 63px;
+  height: 32px;
+  object-fit: cover;
+}
+.pagado32900 {
+  position: absolute;
+  top: 407px;
+  left: 220px;
+  display: inline-block;
+  width: 103px;
+  height: 24px;
+}
+.image29Icon {
+  position: absolute;
+  top: 32px;
+  left: 2px;
+  width: 25px;
+  height: 15px;
+  object-fit: cover;
+}
+.tarjetas {
+  position: absolute;
+  top: 86px;
+  left: 36px;
+  border-radius: var(--br-6xl);
+  background-color: var(--neutral-300);
+  border: 2px solid var(--color-black);
+  box-sizing: border-box;
+  width: 361px;
+  height: 465px;
+}
+.francoVillaSosaParent,
+.image30Icon {
+  position: absolute;
+  top: 14px;
+  left: 35px;
+  width: 60px;
+  height: 34px;
+}
+.image30Icon {
+  top: 24px;
+  left: 6px;
+  width: 25px;
+  height: 15px;
+  object-fit: cover;
+}
+.tarjetas1 {
+  position: absolute;
+  top: 569px;
+  left: 34px;
+  border-radius: var(--br-mini);
+  background-color: var(--neutral-300);
+  border: 2px solid var(--color-black);
+  box-sizing: border-box;
+  width: 361px;
+  height: 59px;
+}
+.raquelFigueroaCruz {
+  position: absolute;
+  top: 0;
+  left: 0;
+  text-decoration: line-through;
+}
+.image31Icon {
+  position: absolute;
+  top: 11px;
+  left: 276px;
+  width: 63px;
+  height: 32px;
+  object-fit: cover;
+}
+.tarjetas2 {
+  position: absolute;
+  top: 808px;
+  left: 34px;
+  border-radius: var(--br-mini);
+  background-color: var(--neutral-300);
+  border: 2px solid var(--color-black);
+  box-sizing: border-box;
+  width: 361px;
+  height: 59px;
+}
+.emiliaCrdobaCarrasco {
+  text-decoration: line-through;
+}
+.tarjetas3,
+.tarjetas4 {
+  position: absolute;
+  top: 728px;
+  left: 36px;
+  border-radius: var(--br-mini);
+  background-color: var(--neutral-300);
+  border: 2px solid var(--color-black);
+  box-sizing: border-box;
+  width: 361px;
+  height: 59px;
+}
+.tarjetas4 {
+  top: 647px;
+}
+.mugHotAlt1Icon,
+.persona1Icon,
+.persona2Icon,
+.sandwich1Icon {
+  position: absolute;
+  top: 0;
+  width: 65px;
+  height: 76px;
+  object-fit: cover;
+}
+.persona1Icon {
+  left: 309px;
+  opacity: 0.5;
+  cursor: pointer;
+}
+.mugHotAlt1Icon,
+.persona2Icon,
+.sandwich1Icon {
+  left: 209px;
+}
+.mugHotAlt1Icon,
+.sandwich1Icon {
+  left: 97px;
+  opacity: 0.5;
+  cursor: pointer;
+}
+.sandwich1Icon {
+  top: 3px;
+  left: -15px;
+  height: 70px;
+}
+.iconosInternalFrame {
+  position: absolute;
+  top: calc(50% - 37.5px);
+  left: calc(50% - 177px);
+  width: 353px;
+  height: 76px;
+}
+.footer {
+  position: absolute;
+  top: 843px;
+  left: 0;
+  background: linear-gradient(180deg, #fff, #b4c8d0);
+  width: 430px;
+  height: 89px;
+}
+.nombreDeUsuario {
+  position: absolute;
+  top: 36px;
+  left: 36px;
+  font-size: var(--font-size-6xl);
+  color: var(--color-gray-700);
+}
+.frameChild {
+  position: absolute;
+  top: 7px;
+  left: 8px;
+  border-radius: var(--br-6xl);
+  background-color: var(--color-gainsboro-100);
+  width: 302px;
+  height: 349px;
+}
+.frameItem {
+  position: absolute;
+  top: 14px;
+  left: 17px;
+  border-radius: var(--br-mini);
+  width: 72px;
+  height: 72px;
+  object-fit: cover;
+}
+.frameInner {
+  position: absolute;
+  top: 33px;
+  left: 244px;
+  border-radius: var(--br-5xs);
+  background-color: var(--color-gray-300);
+  width: 87px;
+  height: 30px;
+}
+.matchaCaliente,
+.sinAzcarDeslactosado {
+  position: absolute;
+  top: 0;
+  left: 0;
+  line-height: 160%;
+}
+.sinAzcarDeslactosado {
+  top: 30px;
+  font-size: var(--ibm-plex-sans-caption-regular-12-size);
+  line-height: 145%;
+}
+.image28Icon,
+.matchaCalienteParent {
+  position: absolute;
+  top: 12px;
+  left: 96px;
+  width: 136px;
+  height: 47px;
+}
+.image28Icon {
+  top: 37px;
+  left: 255px;
+  width: 40px;
+  height: 21px;
+  object-fit: cover;
+}
+.rectangleParent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-mini);
+  background-color: var(--color-gray-200);
+  width: 343px;
+  height: 96px;
+}
+.chilaquilesVerdes,
+.dosHuevosEstrellados {
+  position: absolute;
+  top: 12px;
+  left: 96px;
+  line-height: 160%;
+}
+.dosHuevosEstrellados {
+  top: 42px;
+  font-size: var(--ibm-plex-sans-caption-regular-12-size);
+  line-height: 145%;
+  font-family: var(--font-roboto);
+}
+.image26Icon,
+.rectangleIcon {
+  position: absolute;
+  object-fit: cover;
+}
+.rectangleIcon {
+  top: 12px;
+  left: 14px;
+  border-radius: var(--br-mini);
+  width: 72px;
+  height: 72px;
+}
+.image26Icon {
+  top: 33px;
+  left: 250px;
+  width: 47px;
+  height: 25px;
+}
+.rectangleGroup {
+  position: absolute;
+  top: 174px;
+  left: 6px;
+  border-radius: var(--br-mini);
+  background-color: var(--color-gray-200);
+  width: 343px;
+  height: 96px;
+}
+.cartCards {
+  position: absolute;
+  top: 129px;
+  left: 49px;
+  width: 349px;
+  height: 270px;
+  font-family: var(--font-rosarivo);
+}
+.frameChild1 {
+  position: absolute;
+  top: 12px;
+  left: 12px;
+  border-radius: var(--br-mini);
+  width: 72px;
+  height: 72px;
+  object-fit: cover;
+}
+.cappuccinoParent,
+.image28Icon1 {
+  position: absolute;
+  top: 12px;
+  left: 96px;
+  width: 88px;
+  height: 47px;
+}
+.image28Icon1 {
+  top: 30px;
+  left: 253px;
+  width: 40px;
+  height: 21px;
+  object-fit: cover;
+}
+.frameChild3,
+.rectangleContainer {
+  position: absolute;
+  border-radius: var(--br-mini);
+}
+.rectangleContainer {
+  top: 387px;
+  left: 51px;
+  background-color: var(--color-gray-200);
+  width: 343px;
+  height: 96px;
+  font-family: var(--font-rosarivo);
+}
+.frameChild3 {
+  top: 12px;
+  left: 15px;
+  width: 72px;
+  height: 72px;
+  object-fit: cover;
+}
+.frameDiv,
+.sandwichQuesoParent {
+  position: absolute;
+  top: 12px;
+  left: 96px;
+  width: 111px;
+  height: 47px;
+}
+.frameDiv {
+  top: 213px;
+  left: 52px;
+  border-radius: var(--br-mini);
+  background-color: var(--color-gray-200);
+  width: 343px;
+  height: 96px;
+  font-family: var(--font-rosarivo);
+}
+.image27Icon {
+  position: absolute;
+  top: 255px;
+  left: 302px;
+  width: 40px;
+  height: 21px;
+  object-fit: cover;
+}
+.pedidosRecibidosCafetera {
+  position: relative;
+  background-color: var(--color-silver);
+  width: 100%;
+  height: 932px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--ibm-plex-sans-body-2-regular-14-size);
+  color: var(--color-black);
+  font-family: var(--font-roboto);
+}

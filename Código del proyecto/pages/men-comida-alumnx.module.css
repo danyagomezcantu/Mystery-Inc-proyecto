@@ -1,0 +1,292 @@
+.persona1Icon,
+.roomService1Icon {
+  top: 0;
+  height: 76px;
+  opacity: 0.5;
+  cursor: pointer;
+}
+.persona1Icon {
+  position: absolute;
+  left: 327px;
+  width: 65px;
+  object-fit: cover;
+}
+.roomService1Icon {
+  left: 218px;
+}
+.mugHotAlt1Icon,
+.roomService1Icon,
+.sandwich1Icon {
+  position: absolute;
+  width: 65px;
+  object-fit: cover;
+}
+.mugHotAlt1Icon {
+  top: 0;
+  left: 109px;
+  height: 76px;
+  opacity: 0.5;
+  cursor: pointer;
+}
+.sandwich1Icon {
+  top: 3px;
+  left: 0;
+  height: 70px;
+}
+.iconosInternalFrame {
+  position: absolute;
+  top: 7px;
+  left: 18px;
+  width: 393px;
+  height: 76px;
+}
+.footer,
+.groupChild {
+  position: absolute;
+  left: 0;
+}
+.footer {
+  top: 843px;
+  background: linear-gradient(180deg, #fff, #b4c8d0);
+  width: 430px;
+  height: 89px;
+}
+.groupChild {
+  top: 0;
+  border-radius: 12.61px;
+  background-color: var(--color-gray-200);
+  width: 185.5px;
+  height: 280.1px;
+}
+.groupItem {
+  position: absolute;
+  top: 14.6px;
+  left: 16.5px;
+  border-radius: var(--br-mini);
+  width: 152.5px;
+  height: 135.2px;
+  object-fit: cover;
+}
+.rolloDeCanela {
+  top: 159.5px;
+  left: 16.5px;
+  line-height: 145%;
+  display: inline-block;
+  width: 152.5px;
+  height: 42.6px;
+}
+.b,
+.groupInner,
+.rolloDeCanela {
+  position: absolute;
+}
+.groupInner {
+  top: 218px;
+  left: 16.5px;
+  border-radius: var(--br-xs);
+  background-color: var(--color-gray-300);
+  width: 152.5px;
+  height: 47.5px;
+}
+.b {
+  top: 231.3px;
+  left: 47.4px;
+  font-size: var(--font-size-base);
+  line-height: 115%;
+  display: inline-block;
+  color: #071521;
+  width: 38.1px;
+  height: 22.5px;
+}
+.rectangleDiv {
+  position: absolute;
+  top: 218px;
+  left: 115.4px;
+  border-radius: var(--br-xs);
+  background-color: var(--color-blanchedalmond);
+  width: 53.6px;
+  height: 47.5px;
+}
+.groupIcon {
+  position: absolute;
+  height: 5.64%;
+  width: 9.65%;
+  top: 83.47%;
+  right: 18.49%;
+  bottom: 10.89%;
+  left: 71.86%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.b1,
+.rectangleParent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 185.5px;
+  height: 280.1px;
+}
+.b1 {
+  top: 231.4px;
+  left: 41.2px;
+  font-size: var(--font-size-base);
+  line-height: 115%;
+  display: inline-block;
+  color: var(--neutral-300);
+  width: 50.8px;
+  height: 21.9px;
+}
+.groupChild4,
+.rectangleGroup {
+  position: absolute;
+  top: 299.5px;
+  left: 0;
+  width: 185.5px;
+  height: 280.1px;
+}
+.groupChild4 {
+  top: 0;
+  border-radius: 12.61px;
+  background-color: var(--color-gray-200);
+  height: 279.8px;
+}
+.b2 {
+  position: absolute;
+  top: 231.1px;
+  left: 41.2px;
+  font-size: 15.98px;
+  line-height: 115%;
+  display: inline-block;
+  color: var(--neutral-300);
+  text-align: left;
+  width: 50.8px;
+  height: 21.9px;
+}
+.groupIcon2 {
+  position: relative;
+  width: 13px;
+  height: 13px;
+}
+.groupWrapper {
+  position: absolute;
+  top: 217.7px;
+  left: 115.4px;
+  border-radius: var(--br-xs);
+  background-color: var(--color-blanchedalmond);
+  width: 53.6px;
+  height: 47.4px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 12.98744010925293px;
+  box-sizing: border-box;
+}
+.groupChild6 {
+  position: absolute;
+  top: 14.6px;
+  left: 224px;
+  width: 56.3px;
+  height: 24.3px;
+}
+.rectangleContainer {
+  position: absolute;
+  top: 0;
+  left: 207.5px;
+  width: 185.5px;
+  height: 279.8px;
+  text-align: center;
+  font-size: 13.99px;
+}
+.b3,
+.groupDiv {
+  position: absolute;
+}
+.b3 {
+  top: 231.1px;
+  left: 41.2px;
+  font-size: 15.98px;
+  line-height: 115%;
+  display: inline-block;
+  color: var(--neutral-300);
+  width: 50.8px;
+  height: 21.9px;
+}
+.groupDiv {
+  top: 300.1px;
+  left: 207.5px;
+  width: 185.5px;
+  height: 279.8px;
+  font-size: 13.99px;
+}
+.coffeeCardsChild,
+.coffeeCardsItem {
+  position: absolute;
+  top: 15px;
+  left: 224px;
+  border-radius: var(--br-mini);
+  width: 153px;
+  height: 135px;
+  object-fit: cover;
+}
+.coffeeCardsItem {
+  top: 314px;
+  left: 223px;
+  height: 136px;
+}
+.coffeeCards {
+  position: absolute;
+  top: 151px;
+  left: 18px;
+  width: 393px;
+  height: 580px;
+  overflow-y: auto;
+}
+.persona2Icon {
+  position: absolute;
+  top: 37px;
+  left: 370px;
+  width: 50px;
+  height: 61px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.buscaTuComida,
+.searchBarChild {
+  position: relative;
+  width: 20px;
+  height: 20px;
+}
+.buscaTuComida {
+  display: inline-block;
+  width: 198px;
+  flex-shrink: 0;
+}
+.searchBar {
+  position: absolute;
+  top: 47px;
+  left: 18px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-darkgray-100);
+  width: 343px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-3xs) var(--padding-lgi) var(--padding-3xs)
+    var(--padding-xl);
+  box-sizing: border-box;
+  gap: var(--gap-xl);
+}
+.menComidaAlumnx {
+  position: relative;
+  background-color: var(--color-silver);
+  width: 100%;
+  height: 932px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--ibm-plex-sans-body-2-regular-14-size);
+  color: var(--color-black);
+  font-family: var(--font-roboto);
+}

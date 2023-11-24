@@ -1,0 +1,385 @@
+.persona1Icon,
+.persona2Icon {
+  top: 0;
+  height: 76px;
+  opacity: 0.5;
+  cursor: pointer;
+}
+.persona1Icon {
+  position: absolute;
+  left: 309px;
+  width: 65px;
+  object-fit: cover;
+}
+.persona2Icon {
+  left: 209px;
+}
+.mugHotAlt1Icon,
+.persona2Icon,
+.sandwich1Icon {
+  position: absolute;
+  width: 65px;
+  object-fit: cover;
+}
+.mugHotAlt1Icon {
+  top: 0;
+  left: 97px;
+  height: 76px;
+  opacity: 0.5;
+  cursor: pointer;
+}
+.sandwich1Icon {
+  top: 3px;
+  left: -15px;
+  height: 70px;
+}
+.iconosInternalFrame {
+  position: absolute;
+  top: calc(50% - 37.5px);
+  left: calc(50% - 177px);
+  width: 353px;
+  height: 76px;
+}
+.footer {
+  position: absolute;
+  top: 843px;
+  left: 0;
+  background: linear-gradient(180deg, #fff, #b4c8d0);
+  width: 430px;
+  height: 89px;
+}
+.div,
+.div1,
+.platillos {
+  position: absolute;
+  font-weight: 500;
+  display: inline-block;
+}
+.platillos {
+  top: 36px;
+  left: 23px;
+  font-size: var(--font-size-5xl);
+  background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)),
+    linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), #000;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  width: 123px;
+  height: 32px;
+}
+.div,
+.div1 {
+  top: 7px;
+  left: 301px;
+  font-size: var(--font-size-21xl);
+  text-align: center;
+  width: 43px;
+  height: 52px;
+}
+.div1 {
+  top: 10px;
+  left: 355px;
+  font-size: var(--font-size-16xl);
+}
+.menComidaAdminChild {
+  top: 303px;
+  left: 207px;
+  background-color: var(--color-darkgray-200);
+  width: 129px;
+  height: 115px;
+}
+.image4Icon,
+.menComidaAdminChild,
+.menComidaAdminItem {
+  position: absolute;
+  border-radius: var(--br-6xl);
+}
+.menComidaAdminItem {
+  top: 270px;
+  left: 15px;
+  background-color: var(--color-gainsboro-200);
+  width: 394px;
+  height: 158px;
+}
+.image4Icon {
+  top: 309px;
+  left: 69px;
+  width: 123px;
+  height: 107px;
+  object-fit: cover;
+}
+.donas {
+  position: absolute;
+  top: 282px;
+  left: 23px;
+  font-size: var(--ibm-plex-sans-body-2-regular-14-size);
+  font-weight: 500;
+  display: inline-block;
+  width: 159px;
+  height: 21px;
+}
+.ingredientes {
+  font-size: var(--font-size-3xs);
+}
+.ingredientesHarina {
+  margin: 0;
+}
+.editar,
+.ingredientesHarinaHuevoContainer {
+  position: absolute;
+  font-weight: 500;
+  display: inline-block;
+}
+.ingredientesHarinaHuevoContainer {
+  top: 311px;
+  left: 221px;
+  width: 123px;
+  height: 107px;
+  font-size: var(--font-size-4xs);
+}
+.editar {
+  top: 399px;
+  left: 271px;
+  text-decoration: underline;
+  color: var(--color-blueviolet);
+  overflow: hidden;
+  text-overflow: ellipsis;
+  width: 49px;
+  height: 12px;
+}
+.image5Icon {
+  position: absolute;
+  top: 282px;
+  left: 350px;
+  width: 43px;
+  height: 22px;
+  object-fit: cover;
+}
+.menComidaAdminInner {
+  top: 119px;
+  left: 210px;
+  background-color: var(--color-darkgray-200);
+  width: 129px;
+  height: 115px;
+}
+.image12Icon,
+.menComidaAdminInner,
+.rectangleDiv {
+  position: absolute;
+  border-radius: var(--br-6xl);
+}
+.rectangleDiv {
+  top: 86px;
+  left: 18px;
+  background-color: var(--color-gainsboro-200);
+  width: 394px;
+  height: 158px;
+}
+.image12Icon {
+  top: 125px;
+  left: 72px;
+  width: 123px;
+  height: 107px;
+  object-fit: cover;
+}
+.arrozConLeche {
+  position: absolute;
+  top: 98px;
+  left: 26px;
+  font-size: var(--ibm-plex-sans-body-2-regular-14-size);
+  font-weight: 500;
+  display: inline-block;
+  width: 159px;
+  height: 21px;
+}
+.ingredientesArroz {
+  margin: 0;
+  font-size: var(--font-size-3xs);
+}
+.editar1,
+.ingredientesArrozLecheContainer {
+  position: absolute;
+  font-weight: 500;
+  display: inline-block;
+}
+.ingredientesArrozLecheContainer {
+  top: 127px;
+  left: 224px;
+  width: 123px;
+  height: 107px;
+  font-size: var(--font-size-4xs);
+}
+.editar1 {
+  top: 215px;
+  left: 274px;
+  text-decoration: underline;
+  color: var(--color-blueviolet);
+  overflow: hidden;
+  text-overflow: ellipsis;
+  width: 49px;
+  height: 12px;
+}
+.image13Icon {
+  position: absolute;
+  top: 98px;
+  left: 353px;
+  width: 43px;
+  height: 22px;
+  object-fit: cover;
+}
+.agregarPlatillo,
+.eliminarPlatillo {
+  position: absolute;
+  top: 50px;
+  left: 299px;
+  font-size: var(--font-size-5xs);
+  font-weight: 500;
+  text-align: center;
+  display: inline-block;
+  width: 51px;
+  height: 23px;
+}
+.eliminarPlatillo {
+  left: 351px;
+}
+.menComidaAdminChild1 {
+  top: 489px;
+  left: 207px;
+  background-color: var(--color-darkgray-200);
+  width: 129px;
+  height: 115px;
+}
+.image7Icon,
+.menComidaAdminChild1,
+.menComidaAdminChild2 {
+  position: absolute;
+  border-radius: var(--br-6xl);
+}
+.menComidaAdminChild2 {
+  top: 456px;
+  left: 15px;
+  background-color: var(--color-gainsboro-200);
+  width: 394px;
+  height: 158px;
+}
+.image7Icon {
+  top: 495px;
+  left: 69px;
+  width: 123px;
+  height: 107px;
+  object-fit: cover;
+}
+.empanadasDeCarne {
+  position: absolute;
+  top: 468px;
+  left: 23px;
+  font-size: var(--ibm-plex-sans-body-2-regular-14-size);
+  font-weight: 500;
+  display: inline-block;
+  width: 159px;
+  height: 21px;
+}
+.editar2,
+.ingredientesCebollaAceiteContainer {
+  position: absolute;
+  top: 497px;
+  left: 221px;
+  font-weight: 500;
+  display: inline-block;
+  width: 123px;
+  height: 107px;
+}
+.editar2 {
+  top: 585px;
+  left: 271px;
+  text-decoration: underline;
+  color: var(--color-blueviolet);
+  overflow: hidden;
+  text-overflow: ellipsis;
+  width: 49px;
+  height: 12px;
+}
+.image9Icon {
+  position: absolute;
+  top: 475px;
+  left: 351px;
+  width: 42px;
+  height: 22px;
+  object-fit: cover;
+}
+.menComidaAdminChild3 {
+  top: 674px;
+  left: 207px;
+  background-color: var(--color-darkgray-200);
+  width: 129px;
+  height: 115px;
+}
+.image10Icon,
+.menComidaAdminChild3,
+.menComidaAdminChild4 {
+  position: absolute;
+  border-radius: var(--br-6xl);
+}
+.menComidaAdminChild4 {
+  top: 641px;
+  left: 15px;
+  background-color: var(--color-gainsboro-200);
+  width: 394px;
+  height: 158px;
+}
+.image10Icon {
+  top: 680px;
+  left: 69px;
+  width: 123px;
+  height: 107px;
+  object-fit: cover;
+}
+.enchiladasSuizas {
+  top: 653px;
+  left: 23px;
+  font-size: var(--ibm-plex-sans-body-2-regular-14-size);
+  width: 159px;
+  height: 21px;
+}
+.editar3,
+.enchiladasSuizas,
+.ingredientesTomatejitomate {
+  position: absolute;
+  font-weight: 500;
+  display: inline-block;
+}
+.ingredientesTomatejitomate {
+  top: 682px;
+  left: 221px;
+  width: 123px;
+  height: 107px;
+  font-size: var(--font-size-4xs);
+}
+.editar3 {
+  top: 770px;
+  left: 271px;
+  text-decoration: underline;
+  color: var(--color-blueviolet);
+  overflow: hidden;
+  text-overflow: ellipsis;
+  width: 49px;
+  height: 12px;
+}
+.image11Icon {
+  position: absolute;
+  top: 653px;
+  left: 350px;
+  width: 43px;
+  height: 22px;
+  object-fit: cover;
+}
+.menComidaAdmin {
+  position: relative;
+  background-color: var(--color-silver);
+  width: 100%;
+  height: 932px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-3xs);
+  color: var(--color-black);
+  font-family: var(--font-roboto);
+}
