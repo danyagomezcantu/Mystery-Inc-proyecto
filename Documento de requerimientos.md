@@ -11,8 +11,12 @@ Se creará una aplicación disponible para iOS y Android en la cual se pueda ini
 
 ### Iniciar sesión 
 >*Prioridad alta*
-El usuario puede iniciar sesión con su correo del itam y una contraseña.
-Criterios de aceptación: Una página de login en la que se pueda crear cuenta, recuperar contraseña y tener un login alternativo para administradores de la cafeteria. 
+
+Precondiciones: 
+El usuario es parte de la comunidad itam
+
+Postcondiciones:
+*Una página de login en la que se pueda crear cuenta, recuperar contraseña y tener un login alternativo para administradores de la cafeteria. 
 
 ### El personal de la cafeteria quita o añade platillos y modifica la disponibilidad en caso de que se acabe alguno. 
 >*Prioridad alta*
@@ -64,6 +68,58 @@ Main flow:
 Flujo alternativo:
 
 *lo que el estudiante necesita quitar del platillo no se encuentra y para ello se coloca una caja de comentarios para cosas muy específicas
+
+### Los estudiantes pueden tener sus tarjetas digitales guardadas de manera segura para pagar recurrentemente 
+>*Prioridad alta*
+
+*Caso de uso: pago recurrente con tarjeta de pedidos*
+
+Precondiciones:
+
+*Deben haber ingresado con su número de cuenta y contraseña personal en la aplicación
+*Deben ingresar a la página de añadir tarjeta en el perfil
+*Deben tener su aplicación bancaria abierta con los datos de su tarjeta virtual o una tarjeta física en mano
+
+Postcondiciones:
+*Al ingresar a su cuenta nuevamente, hacer un pedido e ir a la página de pago solo deben seleccionar su tarjeta como método de pago
+
+Main Flow:
+
+*hacer login en la aplicación
+una vez en la página de inicio ir a la pestaña de añadir tarjeta en el perfil
+*ingresar en las cajas de texto correspondientes los datos y dar enter
+*verificar tarjeta en su aplicación bancaria para el proceso de tokenización
+*una vez que la tarjeta esté verificada puede hacer pedidos con ella
+
+Flujos Alternativos:
+
+*el usuario tiene que crear una cuenta si no tiene una
+*el usuario debe marcar a su banco si el proceso de tokenización falla
+
+### Los estudiantes acumulan puntos proporcionales al monto de sus pedidos y que sean canjeables por bebidas o platillos para promover el consumo de la cafeteria por encima de otras opciones
+>*Prioridad baja*
+
+*Casos de uso: Acumulación de puntos por parte de los estudiantes al realizar compras*
+
+Precondiciones:
+
+*Que el estudiante haya iniciado sesión en su propia cuenta
+*dirigirse a la pestaña de puntos en la parte de perfil de la aplicación
+
+Postcondiciones
+*el alumno entra de nuevo a su cuenta y a la pestaña de rewards y puede ver el número de puntos acumulados y su equivalente en pesos
+
+Main flow:
+
+*El alumno abre la pestaña de inicio, selecciona algo del menú, lo personaliza y va a la pestaña de pago
+*una vez aceptado el pago con tarjeta se toma el 5% del valor del pedido y se acumula en pesos o puntos.
+*El alumno puede canjear esos puntos en su siguiente compra al presentar un código personal que el personal usa para llevar la cuenta de los puntos
+
+Flujo alternativo:
+
+El alumno paga con efectivo y la cafeteria tiene que validar el pago y entrega antes de asignar los puntos
+
+
 
 
 
