@@ -1,4 +1,4 @@
-# Desarrollo del MVP con Rapid Development y Feature-Driven Development:
+# Desarrollo del MVP con Rapid y Feature-Driven Development:
 
 ## Rapid Development:
 
@@ -18,11 +18,15 @@ Se planificaron y asignaron tareas basadas en las características específicas 
 ### Iteración por características:
 Cada iteración se centró en implementar y completar una característica específica antes de pasar a la siguiente.
 
-Daily Scrum:
+## Daily Scrum:
 
-Reuniones diarias: El equipo llevó a cabo reuniones diarias de Scrum para compartir avances, identificar posibles bloqueos y determinar las tareas a realizar.
-Transparencia y colaboración: Los miembros del equipo compartieron sus avances y desafíos, fomentando la colaboración y la resolución rápida de problemas.
-Transformación del MVP con Metodología Ágil:
+El equipo de desarrollo priorizó, además de las metodologías anteriores:
+### Reuniones diarias:
+El equipo llevó a cabo reuniones diarias de Scrum para compartir avances, identificar posibles bloqueos y determinar las tareas a realizar.
+### Transparencia y colaboración:
+Los miembros del equipo compartieron sus avances y desafíos, fomentando la colaboración y la resolución rápida de problemas.
+
+# Transformación del MVP con Metodología Ágil:
 
 Flexibilidad a cambios:
 
